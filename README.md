@@ -1,5 +1,3 @@
-# Parking-Page
-域名停放列表
-geeks.wang
-lolis.wang
-googld.wang
+# 用户协议停放页
+
+7doger 的网站、应用《用户协议》统一停放。
